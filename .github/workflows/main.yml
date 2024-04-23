@@ -2,7 +2,7 @@ name: Get Feed
 
 on:
   schedule:
-    - cron: '30 12 * * *' # 8am GMT
+    - cron: '30 7 * * *' # 9am GMT
   workflow_dispatch:
 
 jobs:
